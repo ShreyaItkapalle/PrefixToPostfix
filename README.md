@@ -2,16 +2,16 @@
 This repository contains a simple and efficient tool for converting prefix expressions to postfix expressions.
 Sure, let's break it down step by step for your prefix-to-postfix project in Data Structures and Algorithms (DSA):
 
-Name
+Name:
 Conversion of Prefix Expression to Postfix Expression in Data Structures and Algorithms (DSA)
 
-Problem Domain
+Problem Domain:
 The problem domain involves the conversion of arithmetic expressions from prefix notation (Polish notation) to postfix notation (Reverse Polish notation). In prefix notation, operators precede their operands, whereas in postfix notation, operators follow their operands. This conversion is essential in the field of compilers and interpreters for evaluating arithmetic expressions.
 
-Requirement
+Requirement:
 The main requirement is to design an algorithm that can efficiently convert any given prefix expression into its corresponding postfix form. The program should handle various operators and operands and should be able to process expressions with multiple operations and nested sub-expressions.
 
-Solution Domain
+Solution Domain:
 The solution domain will encompass the following:
 
 Data Structures: Stack
