@@ -1,12 +1,12 @@
 # PrefixToPostfix
 This repository contains a simple and efficient tool for converting prefix expressions to postfix expressions.
-Sure, let's break it down step by step for your prefix-to-postfix project in Data Structures and Algorithms (DSA):
+Let's break it down step by step for your prefix-to-postfix project in Data Structures and Algorithms (DSA):
 
 Name:
 Conversion of Prefix Expression to Postfix Expression in Data Structures and Algorithms (DSA)
 
 Problem Domain:
-The problem domain involves the conversion of arithmetic expressions from prefix notation (Polish notation) to postfix notation (Reverse Polish notation). In prefix notation, operators precede their operands, whereas in postfix notation, operators follow their operands. This conversion is essential in the field of compilers and interpreters for evaluating arithmetic expressions.
+The problem domain involves the conversion of arithmetic expressions from prefix notation to postfix notation. In prefix notation, operators precede their operands, whereas in postfix notation, operators follow their operands. This conversion is essential in the field of compilers and interpreters for evaluating arithmetic expressions.
 
 Requirement:
 The main requirement is to design an algorithm that can efficiently convert any given prefix expression into its corresponding postfix form. The program should handle various operators and operands and should be able to process expressions with multiple operations and nested sub-expressions.
@@ -18,16 +18,16 @@ Data Structures: Stack
 
 Algorithms: A systematic approach for converting prefix to postfix expressions using stack operations
 
-Programming Language: Implementation in a language such as Python, C++, or Java
+Programming Language: Implementation in a language using Python, HTML, CSS, javaScript.
 
-Methodology (Step-by-Step Process)
+Methodology (Step-by-Step Process):
 Initialize an empty stack.
 
-Scan the prefix expression from right to left:
+Scan the prefix expression from right to left.
 
 If the scanned character is an operand, push it onto the stack.
 
-If the scanned character is an operator, pop two elements from the stack. Combine them with the operator in between and push the resulting string back onto the stack.
+If the scanned character is an operator, pop two elements from the stack. Combine them with the operator in between and push the resulting string back into the stack.
 
 Continue the process until the entire prefix expression is scanned.
 
