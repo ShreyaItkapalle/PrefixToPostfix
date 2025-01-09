@@ -57,3 +57,4 @@ The postfix expression is "AB+CD-*".
 Conclusion
 Converting prefix to postfix expressions using the stack data structure is a systematic and efficient approach. This method ensures that complex arithmetic expressions can be evaluated accurately by compilers and interpreters. The algorithm is robust and can handle a variety of expressions, making it a vital tool in the realm of computing and software development.
 
+![Screenshot 2025-01-09 122231](https://github.com/user-attachments/assets/4e85ef55-29bf-4b35-97bb-ec3e134ee19c)
